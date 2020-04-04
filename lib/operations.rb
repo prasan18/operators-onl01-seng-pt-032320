@@ -1,5 +1,4 @@
 def unsafe?(speed)
-speed < 40 || speed > 60
 if speed > 60 || spped < 40
  true
 elsif speed < 60 && speed > 40
